@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="DashLauncherAction" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="Inline" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+</keymap>
