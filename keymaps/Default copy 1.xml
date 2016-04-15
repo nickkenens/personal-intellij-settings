@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="Inline" />
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+</keymap>
