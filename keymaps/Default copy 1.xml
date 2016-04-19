@@ -1,5 +1,8 @@
 <keymap version="1" name="Default copy 1" parent="$default">
   <action id="Inline" />
+  <action id="MarkExcludeRoot">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
