@@ -19,6 +19,12 @@
       <SOURCES />
     </library>
     <library name="firebase-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_firebase_firebase.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_firebase_firebase-simplelogin.d.ts" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_firebase_firebase.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_firebase_firebase-simplelogin.d.ts" />
@@ -26,12 +32,22 @@
       <SOURCES />
     </library>
     <library name="gulp-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp_gulp.d.ts" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp_gulp.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="gulp-gh-pages-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-gh-pages_gulp-gh-pages.d.ts" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_gulp-gh-pages_gulp-gh-pages.d.ts" />
       </CLASSES>
@@ -46,6 +62,9 @@
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_2.2.2_jquery.js" />
+        </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_ajax.googleapis.com_ajax_libs_jquery_2.2.2_jquery.js" />
@@ -68,6 +87,11 @@
       <SOURCES />
     </library>
     <library name="materialize" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_materialize_0.97.6_js_materialize.js" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_materialize_0.97.6_js_materialize.js" />
       </CLASSES>
@@ -128,6 +152,12 @@
       <SOURCES />
     </library>
     <library name="webpack-DefinitelyTyped" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webpack_webpack-env.d.ts" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webpack_webpack.d.ts" />
+        </sourceFilesUrls>
+      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webpack_webpack-env.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_webpack_webpack.d.ts" />
