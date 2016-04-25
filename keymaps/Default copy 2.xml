@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy 2" parent="$default">
+  <action id="IntroduceField" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+</keymap>
