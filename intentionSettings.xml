@@ -1,5 +1,9 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Convert parameters to object" />
+    <ignoreAction name="CSS/Convert color to HEX" />
+    <ignoreAction name="CSS/Convert color to HSL/HSLA" />
+    <ignoreAction name="CSS/Convert color to RGB/RGBA" />
+    <ignoreAction name="HTML/Update background-image size" />
   </component>
 </application>
