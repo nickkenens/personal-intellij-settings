@@ -5,9 +5,5 @@
     <ignoreAction name="CSS/Convert color to HSL/HSLA" />
     <ignoreAction name="CSS/Convert color to RGB/RGBA" />
     <ignoreAction name="HTML/Update background-image size" />
-    <ignoreAction name="Language Injection/Edit Injected Fragment" />
-    <ignoreAction name="Language Injection/Inject language or reference" />
-    <ignoreAction name="Language Injection/Un-inject Language/Reference" />
-    <ignoreAction name="Language Injection/Edit Injection Settings" />
   </component>
 </application>
