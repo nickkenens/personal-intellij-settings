@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="PhoneGap notification" shouldLog="false" />
     <notification groupId="Settings Error" shouldLog="false" />
   </component>
 </application>
