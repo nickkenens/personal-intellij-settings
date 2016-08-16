@@ -6,4 +6,12 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="dv" value="declare var $VAR$: $TYPE$;&#10;" description="declare var" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
