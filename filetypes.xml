@@ -1,8 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping pattern=".gitignore" type="Git file" />
       <mapping pattern=".editorconfig" type="JavaScript" />
       <mapping pattern="completed-games-renderer.ts" type="Native" />
+      <mapping pattern=".gitignore" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
