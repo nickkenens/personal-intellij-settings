@@ -1,0 +1,17 @@
+<templateSet group="user">
+  <template name="clg" value="console.log($VAR$)$END$" description="console log" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="dv" value="declare var $vAR$:$TYPE$;" description="declare var" toReformat="true" toShortenFQNames="true">
+    <variable name="vAR" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
