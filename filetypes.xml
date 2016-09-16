@@ -4,7 +4,6 @@
       <mapping pattern=".editorconfig" type="JavaScript" />
       <mapping pattern="completed-games-renderer.ts" type="Native" />
       <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="m" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
