@@ -212,6 +212,11 @@
       <option name="CSS_DECLARATION_BLOCK" value="true" />
     </context>
   </template>
+  <template name="!" value="!important" description="!important" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS_PROPERTY_VALUE" value="true" />
+    </context>
+  </template>
   <template name="pos" value="position:$VAR0$;" description="position:...;" toReformat="true" toShortenFQNames="true">
     <variable name="VAR0" expression="" defaultValue="&quot;relative&quot;" alwaysStopAt="true" />
     <context>

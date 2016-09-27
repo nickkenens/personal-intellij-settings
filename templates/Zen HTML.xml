@@ -7,10 +7,4 @@
       <option name="JSX_HTML" value="true" />
     </context>
   </template>
-  <template name="sect" value="&lt;section&gt;$END$&lt;/section&gt;" description="&lt;section&gt;...&lt;/section&gt;" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="HTML_TEXT" value="true" />
-      <option name="JSX_HTML" value="true" />
-    </context>
-  </template>
 </templateSet>
