@@ -6,6 +6,7 @@
       <mapping pattern="convert-p7b-to-cer" type="PLAIN_TEXT" />
       <mapping pattern="convert-p7b-to-cer.sh" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
+      <mapping ext="map" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
