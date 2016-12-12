@@ -6,8 +6,10 @@
       <mapping pattern="convert-p7b-to-cer" type="PLAIN_TEXT" />
       <mapping pattern="dummy-plist.json" type="PLAIN_TEXT" />
       <mapping pattern="convert-p7b-to-cer.sh" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="map" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
